@@ -1,4 +1,4 @@
-# Run-buddy1
+# Run Buddy, Inc
 
 ##Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://jaythedon1.github.io/Run-buddy1
 
 ##Contribution 
 made with ❤️by Jason Perez
+
+## &copy; 2019 Run Buddy, Inc
